@@ -144,3 +144,4 @@ if __name__ == "__main__":
     print(f"Result: {depression_level}")
     print("-" * 30)
     print("\nRemember: This is a conceptual demonstration. For mental health concerns, consult a professional.")
+    # python depression_inference.py
