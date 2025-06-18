@@ -1,0 +1,35 @@
+THIS PROCESS FOR FACIAL EMOTION DETECTION SYSTEM
+
+1. Open your Command Prompt.
+
+2. Navigate to your project directory:
+
+Bash
+
+cd C:\Users\Administrator\OneDrive\Desktop\Python\AI Facial Emotion Analysis for Depression Detection
+Activate your facial_emotion_env virtual environment:
+
+3. Activate your facial_emotion_env virtual environment:
+
+Bash
+
+facial_emotion_env\Scripts\activate
+
+You should now see (facial_emotion_env) at the beginning of your command prompt line, like this:
+(facial_emotion_env) C:\Users\Administrator\OneDrive\Desktop\Python\AI Facial Emotion Analysis for Depression Detection>
+
+4. Run the script again:
+
+Bash
+
+python facial_emotion_detection_system.py
+
+--------------------------------------------------------------
+
+THIS PROCESS FOR DEPRESSION INFERENCE
+
+1. Run the script again:
+
+Bash
+
+python facial_emotion_detection_system.py
